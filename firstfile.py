@@ -1,1 +1,2 @@
-print("Welcome to Consultadd")
+
+print("What's up, world?")
